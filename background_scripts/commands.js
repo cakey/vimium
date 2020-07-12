@@ -368,7 +368,7 @@ const defaultKeyMappings = {
   // "g0": "firstTab",
   // "g$": "lastTab",
 
-  // "W": "moveTabToNewWindow",
+  "W": "moveTabToNewWindow",
   // "t": "createTab",
   // "yt": "duplicateTab",
   // "x": "removeTab",
